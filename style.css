@@ -84,7 +84,7 @@ body {
 .mn::before {
     content: '';
     position: absolute;
-    width: 3px;
+    width: 4px;
     height: 80px;
     background: #ff105e;
     z-index: 10;
