@@ -67,7 +67,7 @@ body {
 .sc {
     display: flex;
     justify-content: center;
-    position: absolute;
+    position: absolute;border-radius: 50%;
 }
 
 .hr::before {
