@@ -95,7 +95,7 @@ body {
     content: '';
     position: absolute;
     width: 2px;
-    height: 100px;
+    height: 150px;
     background: #fff;
     z-index: 11;
     border-radius: 6px 6px 0 0;
