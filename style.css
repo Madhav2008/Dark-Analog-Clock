@@ -57,7 +57,7 @@ body {
 }
 
 .clock .sec,
-.hr {
+.sc {
     width: 160px;
     height: 150px;
 }
