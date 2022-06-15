@@ -65,5 +65,6 @@ body {
 .hr,
 .mn,
 .sc {
-    display: flex;justify-content: center;
+    display: flex;
+    justify-content: center;
 }
