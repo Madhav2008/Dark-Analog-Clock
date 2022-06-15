@@ -28,4 +28,6 @@ body {
         inset 0 15px 15px rgba(0, 0, 0, 0.3);
 }
 
-.clock::before {content: '';}
+.clock::before {
+    content: '';
+}
