@@ -71,5 +71,5 @@ body {
 }
 
 .hr::before {
-    content: '';
+    content: '';position: absolute;
 }
