@@ -85,7 +85,7 @@ body {
     content: '';
     position: absolute;
     width: 4px;
-    height: 80px;
+    height: 90px;
     background: #ff105e;
     z-index: 10;
     border-radius: 6px 6px 0 0;
