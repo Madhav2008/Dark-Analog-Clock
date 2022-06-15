@@ -91,7 +91,7 @@ body {
     border-radius: 6px 6px 0 0;
 }
 
-.mn::before {
+.sc::before {
     content: '';
     position: absolute;
     width: 4px;
