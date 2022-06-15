@@ -40,4 +40,6 @@ body {
 
 .clock .hour,
 .clock .min,
-.clock .sec {position: absolute;}
+.clock .sec {
+    position: absolute;
+}
