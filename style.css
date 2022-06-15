@@ -73,5 +73,5 @@ body {
 .hr::before {
     content: '';
     position: absolute;
-    width: 8px;
+    width: 8px;height: 80px;
 }
