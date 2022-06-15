@@ -24,7 +24,7 @@
     </div>
 
     <script>
-        
+
         const deg = 6;
         const hr = document.querySelector("#hr");
         const mn = document.querySelector("#mn");
@@ -35,7 +35,7 @@
         let mm = day.getMinutes * deg;
         let ss = day.getMinutes * deg;
 
-        hr.style.transform = `rotateZ(${(hh) + (mm)}deg)`;
+        hr.style.transform = `rotateZ(${(hh) + (mm/12)}deg)`;
 
     </script>
 
