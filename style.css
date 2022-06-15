@@ -75,5 +75,5 @@ body {
     position: absolute;
     width: 8px;
     height: 80px;
-    background: #ff105e;
+    background: #ff105e;z-index: 10;
 }
