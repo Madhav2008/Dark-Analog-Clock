@@ -44,4 +44,4 @@ body {
     position: absolute;
 }
 
-.clock .hour .hr {}
+.clock .hour, .hr {}
