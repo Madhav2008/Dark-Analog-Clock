@@ -1,5 +1,6 @@
 # Dark Analog Clock
 
+![image](https://user-images.githubusercontent.com/72864817/173788514-3574b118-e1dc-4761-be3f-9224f7334b36.png)
 
 
 # Screenshots
