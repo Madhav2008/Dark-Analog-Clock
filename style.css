@@ -74,5 +74,5 @@ body {
     content: '';
     position: absolute;
     width: 8px;
-    height: 80px;
+    height: 80px;background: #ff105e;
 }
