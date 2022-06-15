@@ -94,7 +94,7 @@ body {
 .sc::before {
     content: '';
     position: absolute;
-    width: 4px;
+    width: 2px;
     height: 90px;
     background: #fff;
     z-index: 11;
