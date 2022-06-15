@@ -50,7 +50,7 @@ body {
     height: 150px;
 }
 
-.clock .hour,
+.clock .min,
 .hr {
     width: 160px;
     height: 150px;
