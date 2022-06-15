@@ -16,5 +16,5 @@ body {
     width: 350px;
     height: 350px;
     display: flex;
-    justify-content: center;
+    justify-content: center;align-items: center;
 }
