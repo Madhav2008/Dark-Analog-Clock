@@ -64,4 +64,4 @@ body {
 
 .hr,
 .mn,
-.sc {}
+.sc {display: flex;}
