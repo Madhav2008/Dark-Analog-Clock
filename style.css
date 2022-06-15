@@ -81,7 +81,7 @@ body {
     border-radius: 6px 6px 0 0;
 }
 
-.hr::before {
+.mn::before {
     content: '';
     position: absolute;
     width: 8px;
