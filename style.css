@@ -15,5 +15,5 @@ body {
 .clock {
     width: 350px;
     height: 350px;
-    display: flex;
+    display: flex;justify-content: center;
 }
