@@ -20,5 +20,5 @@ body {
     align-items: center;
     background: url(clock.png);
     background-size: cover;
-    border: 4px solid #091921;
+    border: 4px solid #091921;box-shadow: ;
 }
