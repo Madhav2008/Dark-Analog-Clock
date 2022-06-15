@@ -19,5 +19,6 @@ body {
     justify-content: center;
     align-items: center;
     background: url(clock.png);
-    background-size: cover;border: ;
+    background-size: cover;
+    border: ;
 }
