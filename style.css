@@ -86,7 +86,7 @@ body {
     position: absolute;
     width: 4px;
     height: 90px;
-    background: #ff105e;
+    background: #fff;
     z-index: 10;
     border-radius: 6px 6px 0 0;
 }
