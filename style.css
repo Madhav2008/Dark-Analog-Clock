@@ -29,5 +29,6 @@ body {
 }
 
 .clock::before {
-    content: '';position: absolute;
+    content: '';
+    position: absolute;
 }
