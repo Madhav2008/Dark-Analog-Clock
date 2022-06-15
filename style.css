@@ -45,4 +45,4 @@ body {
 }
 
 .clock .hour,
-.hr {}
+.hr {width: 160px;}
