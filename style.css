@@ -80,3 +80,12 @@ body {
     z-index: 10;
     border-radius: 6px 6px 0 0;
 }
+.hr::before {
+    content: '';
+    position: absolute;
+    width: 8px;
+    height: 80px;
+    background: #ff105e;
+    z-index: 10;
+    border-radius: 6px 6px 0 0;
+}
