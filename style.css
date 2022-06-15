@@ -46,5 +46,6 @@ body {
 
 .clock .hour,
 .hr {
-    width: 160px;height: 150px;
+    width: 160px;
+    height: 150px;
 }
