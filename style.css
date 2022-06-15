@@ -70,4 +70,4 @@ body {
     align-items: center;
 }
 
-.hr
+.hr::before
